@@ -1,3 +1,9 @@
+## [4.4.1](https://github.com/Aka4real/Gboard-patches-personal-/compare/0e76cab...v4.4.1) (2026-11-23)
+
+### 🐛 Bug Fixes
+
+* **Gboard:** stabilize AI Rambler selection in **Advanced Voice Typing** across Direct Boot lockouts, passive `Lnca#a(Context)` reads, and settings toggles by persisting explicit Rambler selection and Advanced Voice flags to Device-Protected (DE) storage and guarding against state poisoning and re-entrancy recursion.
+
 ## [4.4.0](https://github.com/jasonwu1994/Gboard-patches/compare/v4.3.0...v4.4.0) (2026-11-21)
 
 ### ✨ New Features
